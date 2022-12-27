@@ -7,4 +7,4 @@ At the end of each decade, a multi-variable graph is meant to be displayed that 
 This lack of visuals can be remedied by clicking the "Open in Colab" button at the top of the Jupyter Notebook file of the Colab project.
 
 # Crucial Work Distribution Note
-This was a project that was done in equal, 50-50 distribution of tasks between myself and coauthor of this project, @PromitHossain. 
+This was a project that was done in equal, 50-50 distribution of tasks between myself and coauthor of this project, PromitHossain (GitHub username).
